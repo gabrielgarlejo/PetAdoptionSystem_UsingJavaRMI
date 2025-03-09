@@ -1,0 +1,30 @@
+<adoptions>
+    <adoption>
+        <adoption_id>87654321-4321-8765-4321-876543210987</adoption_id>
+        <pet_id>12345678-1234-5678-1234-567812345678</pet_id>
+        <adopter_id>e5fdebd1-664c-481a-9bc6-858d152199a5</adopter_id>
+        <date>2024-02-09</date>
+        <status>Completed</status>
+    </adoption>
+    <adoption>
+        <adoption_id>12345678-5678-1234-8765-567812345678</adoption_id>
+        <pet_id>12345678-1234-5678-1234-567812345678</pet_id>
+        <adopter_id>e5fdebd1-664c-481a-9bc6-858d152199a5</adopter_id>
+        <date>2024-02-10</date>
+        <status>Completed</status>
+    </adoption>
+    <adoption>
+        <adoption_id>23456789-8765-4321-5678-987654321234</adoption_id>
+        <pet_id>12345678-1234-5678-1234-567812345678</pet_id>
+        <adopter_id>e5fdebd1-664c-481a-9bc6-858d152199a5</adopter_id>
+        <date>2024-02-11</date>
+        <status>Completed</status>
+    </adoption>
+    <adoption>
+        <adoption_id>34567890-1234-9876-5432-456789012345</adoption_id>
+        <pet_id>12345678-1234-5678-1234-567812345678</pet_id>
+        <adopter_id>e5fdebd1-664c-481a-9bc6-858d152199a5</adopter_id>
+        <date>2024-02-12</date>
+        <status>Completed</status>
+    </adoption>
+</adoptions>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<managers>
+    <manager>
+        <uuid>550e8400-e29b-41d4-a716-446655440000</uuid>
+        <email>a@admin.com</email>
+        <password>321</password>
+        <firstname>System</firstname>
+        <lastname>Admin</lastname>
+        <contact_number>12345678</contact_number>
+        <role>manager</role>
+    </manager>
+</managers>

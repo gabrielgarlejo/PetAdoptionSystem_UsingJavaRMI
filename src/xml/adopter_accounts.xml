@@ -1,0 +1,169 @@
+<adopters>
+                    
+    
+    
+    
+    <adopter>
+                                        
+        
+        
+        
+        
+        <uuid>e5fdebd1-664c-481a-9bc6-858d152199a5</uuid>
+                                        
+        
+        
+        
+        <email>gab@mail.com</email>
+                                        
+        
+        
+        
+        <password>123</password>
+                                        
+        
+        
+        
+        <firstname>gabriel</firstname>
+                                        
+        
+        
+        
+        <lastname>james</lastname>
+                                        
+        
+        
+        
+        <contact_number>12345</contact_number>
+                                    
+    
+    
+    
+    </adopter>
+                    
+    
+    
+    
+    <adopter>
+                                  
+        
+        
+        
+        
+        <uuid>26b78807-d7b8-4f03-b9ad-64ea5c4929fa</uuid>
+                                   
+        
+        
+        
+        
+        <email>grljo@gmail.com</email>
+                                        
+        
+        
+        
+        <password>321</password>
+                                        
+        
+        
+        
+        <firstname>gab</firstname>
+                                        
+        
+        
+        
+        <lastname>garlejo</lastname>
+                                        
+        
+        
+        
+        <contact_number>123123</contact_number>
+                                    
+    
+    
+    
+    </adopter>
+                
+    
+    
+    
+    <adopter>
+                                
+        
+        
+        <uuid>a7b72ed0-588f-4995-b8fb-feda708a9eb5</uuid>
+                                
+        
+        
+        <email>tom@mail.com</email>
+                                
+        
+        
+        <password>123</password>
+                                
+        
+        
+        <firstname>christian</firstname>
+                                
+        
+        
+        <lastname>tom</lastname>
+                                
+        
+        
+        <contact_number>123</contact_number>
+                            
+    
+    
+    </adopter>
+            
+    
+    
+    <adopter>
+                        
+        
+        <uuid>e06b8454-d533-4444-b572-37755504e2bf</uuid>
+                        
+        
+        <email>erwin@mail.com</email>
+                        
+        
+        <password>123</password>
+                        
+        
+        <firstname>erwin</firstname>
+                        
+        
+        <lastname>form</lastname>
+                        
+        
+        <contact_number>123</contact_number>
+                    
+    
+    </adopter>
+        
+    
+    <adopter>
+                
+        <uuid>34070eb8-301b-4e35-9df6-10d22d7bd765</uuid>
+                
+        <email>ken@mail.com</email>
+                
+        <password>123</password>
+                
+        <firstname>ken</firstname>
+                
+        <lastname>avar</lastname>
+                
+        <contact_number>123</contact_number>
+            
+    </adopter>
+    
+    <adopter>
+        <uuid>1bfd633f-c1eb-4081-a345-40e690f45f68</uuid>
+        <email>das@mail.com</email>
+        <password>123</password>
+        <firstname>asd</firstname>
+        <lastname>dsa</lastname>
+        <contact_number>123</contact_number>
+    </adopter>
+</adopters>

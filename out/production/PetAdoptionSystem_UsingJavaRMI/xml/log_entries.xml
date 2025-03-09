@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<logEntries>
+                                            
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <logEntry>
+                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <timestamp>2025-02-17 23:35:21</timestamp>
+                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <userEmail>gab@mail.com</userEmail>
+                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <action>LOGIN_SUCCESS</action>
+                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <details>User type: adopter</details>
+                                                                                    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    </logEntry>
+                                        
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <logEntry>
+                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        <timestamp>2025-02-17 23:35:22</timestamp>
+                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        <userEmail>gab@mail.com</userEmail>
+                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        <action>LOAD_PROFILE</action>
+                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        <details>Loaded profile for: gabriel james</details>
+                                                                            
+    
+    
+    
+    
+    
+    
+    
+    
+    </logEntry>
+                                    
+    
+    
+    
+    
+    
+    
+    
+    
+    <logEntry>
+                                                                        
+        
+        
+        
+        
+        
+        
+        
+        <timestamp>2025-02-17 23:35:22</timestamp>
+                                                                        
+        
+        
+        
+        
+        
+        
+        
+        <userEmail>gab@mail.com</userEmail>
+                                                                        
+        
+        
+        
+        
+        
+        
+        
+        <action>DASHBOARD_ACCESS</action>
+                                                                        
+        
+        
+        
+        
+        
+        
+        
+        <details>Adopter dashboard opened</details>
+                                                                    
+    
+    
+    
+    
+    
+    
+    
+    </logEntry>
+                                
+    
+    
+    
+    
+    
+    
+    
+    <logEntry>
+                                                                
+        
+        
+        
+        
+        
+        
+        <timestamp>2025-02-17 23:35:23</timestamp>
+                                                                
+        
+        
+        
+        
+        
+        
+        <userEmail>gab@mail.com</userEmail>
+                                                                
+        
+        
+        
+        
+        
+        
+        <action>VIEW_CATEGORY</action>
+                                                                
+        
+        
+        
+        
+        
+        
+        <details>Viewed Dogs category - Found: 2</details>
+                                                            
+    
+    
+    
+    
+    
+    
+    </logEntry>
+                            
+    
+    
+    
+    
+    
+    
+    <logEntry>
+                                                        
+        
+        
+        
+        
+        
+        <timestamp>2025-02-17 23:35:31</timestamp>
+                                                        
+        
+        
+        
+        
+        
+        <userEmail>gab@mail.com</userEmail>
+                                                        
+        
+        
+        
+        
+        
+        <action>VIEW_ADOPTION_HISTORY</action>
+                                                        
+        
+        
+        
+        
+        
+        <details>Loaded adoption history - Found: 2 adoptions</details>
+                                                    
+    
+    
+    
+    
+    
+    </logEntry>
+                        
+    
+    
+    
+    
+    
+    <logEntry>
+                                                
+        
+        
+        
+        
+        <timestamp>2025-02-17 23:38:49</timestamp>
+                                                
+        
+        
+        
+        
+        <userEmail>gab@mail.com</userEmail>
+                                                
+        
+        
+        
+        
+        <action>LOGIN_SUCCESS</action>
+                                                
+        
+        
+        
+        
+        <details>User type: adopter</details>
+                                            
+    
+    
+    
+    
+    </logEntry>
+                    
+    
+    
+    
+    
+    <logEntry>
+                                        
+        
+        
+        
+        <timestamp>2025-02-17 23:38:50</timestamp>
+                                        
+        
+        
+        
+        <userEmail>gab@mail.com</userEmail>
+                                        
+        
+        
+        
+        <action>LOAD_PROFILE</action>
+                                        
+        
+        
+        
+        <details>Loaded profile for: gabriel james</details>
+                                    
+    
+    
+    
+    </logEntry>
+                
+    
+    
+    
+    <logEntry>
+                                
+        
+        
+        <timestamp>2025-02-17 23:38:50</timestamp>
+                                
+        
+        
+        <userEmail>gab@mail.com</userEmail>
+                                
+        
+        
+        <action>DASHBOARD_ACCESS</action>
+                                
+        
+        
+        <details>Adopter dashboard opened</details>
+                            
+    
+    
+    </logEntry>
+            
+    
+    
+    <logEntry>
+                        
+        
+        <timestamp>2025-02-17 23:39:05</timestamp>
+                        
+        
+        <userEmail>gab@mail.com</userEmail>
+                        
+        
+        <action>VIEW_CATEGORY</action>
+                        
+        
+        <details>Viewed Cats category - Found: 2</details>
+                    
+    
+    </logEntry>
+        
+    
+    <logEntry>
+                
+        <timestamp>2025-02-17 23:39:23</timestamp>
+                
+        <userEmail>gab@mail.com</userEmail>
+                
+        <action>VIEW_CATEGORY</action>
+                
+        <details>Viewed Reptiles category - Found: 2</details>
+            
+    </logEntry>
+    
+    <logEntry>
+        <timestamp>2025-02-17 23:39:32</timestamp>
+        <userEmail>gab@mail.com</userEmail>
+        <action>VIEW_CATEGORY</action>
+        <details>Viewed Birds category - Found: 2</details>
+    </logEntry>
+</logEntries>
